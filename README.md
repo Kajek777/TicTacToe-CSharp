@@ -1,4 +1,4 @@
-A game of TicTacToe I made in C# for fun.
+A game of TicTacToe I made in C# for fun. I know it's unoptimized and messy but i don't really care.
 
 ­
 
